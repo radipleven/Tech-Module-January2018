@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\bin\Debug\netcoreapp2.0\02.PhoneBookUpgrade.deps.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\bin\Debug\netcoreapp2.0\02.PhoneBookUpgrade.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\bin\Debug\netcoreapp2.0\02.PhoneBookUpgrade.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\bin\Debug\netcoreapp2.0\02.PhoneBookUpgrade.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\bin\Debug\netcoreapp2.0\02.PhoneBookUpgrade.pdb
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\02.PhoneBookUpgrade\02.PhoneBookUpgrade\obj\Debug\netcoreapp2.0\02.PhoneBookUpgrade.pdb

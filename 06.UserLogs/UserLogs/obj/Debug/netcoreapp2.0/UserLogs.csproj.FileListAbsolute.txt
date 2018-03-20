@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.deps.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\bin\Debug\netcoreapp2.0\UserLogs.pdb
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\UserLogs\UserLogs\obj\Debug\netcoreapp2.0\UserLogs.pdb

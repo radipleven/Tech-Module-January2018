@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.deps.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\bin\Debug\netcoreapp2.0\HandsOfCards.pdb
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\HandsOfCards\HandsOfCards\obj\Debug\netcoreapp2.0\HandsOfCards.pdb

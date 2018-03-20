@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.deps.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\bin\Debug\netcoreapp2.0\AMinerTask.pdb
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\AMinerTask\AMinerTask\obj\Debug\netcoreapp2.0\AMinerTask.pdb

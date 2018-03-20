@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.deps.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\bin\Debug\netcoreapp2.0\FixEmails.pdb
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.dll
+D:\Visual Studio 2017\Backup Files\Dicitonaries Exercises\FixEmails\FixEmails\obj\Debug\netcoreapp2.0\FixEmails.pdb
