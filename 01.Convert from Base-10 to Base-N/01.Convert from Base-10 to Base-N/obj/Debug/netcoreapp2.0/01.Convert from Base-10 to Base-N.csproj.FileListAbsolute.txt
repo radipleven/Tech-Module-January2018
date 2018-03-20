@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\bin\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\01.Convert from Base-10 to Base-N\01.Convert from Base-10 to Base-N\obj\Debug\netcoreapp2.0\01.Convert from Base-10 to Base-N.pdb
