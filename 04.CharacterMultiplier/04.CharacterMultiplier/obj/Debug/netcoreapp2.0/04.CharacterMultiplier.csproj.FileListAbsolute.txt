@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\bin\Debug\netcoreapp2.0\04.CharacterMultiplier.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\04.CharacterMultiplier\04.CharacterMultiplier\obj\Debug\netcoreapp2.0\04.CharacterMultiplier.pdb

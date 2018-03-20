@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\bin\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\bin\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\bin\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\bin\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\bin\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\05.MagicExchangeableWordsV2\05.MagicExchangeableWordsV2\obj\Debug\netcoreapp2.0\05.MagicExchangeableWordsV2.pdb

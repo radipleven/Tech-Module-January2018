@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\02.ConvertFromBaseNToBase10\02.ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02.ConvertFromBaseNToBase10.pdb

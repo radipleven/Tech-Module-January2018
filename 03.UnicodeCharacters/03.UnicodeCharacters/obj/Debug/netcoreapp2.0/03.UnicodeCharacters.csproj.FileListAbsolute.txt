@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\bin\Debug\netcoreapp2.0\03.UnicodeCharacters.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Exercises\03.UnicodeCharacters\03.UnicodeCharacters\obj\Debug\netcoreapp2.0\03.UnicodeCharacters.pdb
