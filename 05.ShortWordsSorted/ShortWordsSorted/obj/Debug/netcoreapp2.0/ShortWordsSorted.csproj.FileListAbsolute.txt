@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.deps.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\bin\Debug\netcoreapp2.0\ShortWordsSorted.pdb
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\ShortWordsSorted\ShortWordsSorted\obj\Debug\netcoreapp2.0\ShortWordsSorted.pdb
