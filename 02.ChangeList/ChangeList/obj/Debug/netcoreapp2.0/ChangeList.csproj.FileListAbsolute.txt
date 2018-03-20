@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.deps.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\bin\Debug\netcoreapp2.0\ChangeList.pdb
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\ChangeList\ChangeList\obj\Debug\netcoreapp2.0\ChangeList.pdb
