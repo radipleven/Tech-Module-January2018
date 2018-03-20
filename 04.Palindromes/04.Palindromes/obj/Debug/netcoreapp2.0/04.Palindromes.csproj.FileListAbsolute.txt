@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\bin\Debug\netcoreapp2.0\04.Palindromes.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\bin\Debug\netcoreapp2.0\04.Palindromes.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\bin\Debug\netcoreapp2.0\04.Palindromes.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\bin\Debug\netcoreapp2.0\04.Palindromes.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\bin\Debug\netcoreapp2.0\04.Palindromes.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\04.Palindromes\04.Palindromes\obj\Debug\netcoreapp2.0\04.Palindromes.pdb
