@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\bin\Debug\netcoreapp2.0\OddOccurences.deps.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\bin\Debug\netcoreapp2.0\OddOccurences.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\bin\Debug\netcoreapp2.0\OddOccurences.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\bin\Debug\netcoreapp2.0\OddOccurences.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\bin\Debug\netcoreapp2.0\OddOccurences.pdb
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\OddOccurences\OddOccurences\obj\Debug\netcoreapp2.0\OddOccurences.pdb
