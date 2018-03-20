@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.deps.json
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.dll
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.dll
+D:\Visual Studio 2017\Backup Files\RegEx Exercises\01.ExtractEmails\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.pdb
