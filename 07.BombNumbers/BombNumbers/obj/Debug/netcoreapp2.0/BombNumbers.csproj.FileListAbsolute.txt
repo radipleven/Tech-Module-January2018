@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.deps.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\bin\Debug\netcoreapp2.0\BombNumbers.pdb
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\BombNumbers\BombNumbers\obj\Debug\netcoreapp2.0\BombNumbers.pdb
