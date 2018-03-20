@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\FoldAndSum\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb
