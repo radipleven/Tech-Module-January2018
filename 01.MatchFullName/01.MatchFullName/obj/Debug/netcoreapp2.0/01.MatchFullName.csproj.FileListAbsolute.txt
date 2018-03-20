@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\bin\Debug\netcoreapp2.0\01.MatchFullName.deps.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\bin\Debug\netcoreapp2.0\01.MatchFullName.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\bin\Debug\netcoreapp2.0\01.MatchFullName.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\bin\Debug\netcoreapp2.0\01.MatchFullName.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\bin\Debug\netcoreapp2.0\01.MatchFullName.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\01.MatchFullName\01.MatchFullName\obj\Debug\netcoreapp2.0\01.MatchFullName.pdb
