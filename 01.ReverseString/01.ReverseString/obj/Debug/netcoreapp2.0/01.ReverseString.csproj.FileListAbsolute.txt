@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.deps.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.pdb
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.dll
+D:\Visual Studio 2017\Backup Files\Strings and Text Processing Lab\01.ReverseString\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.pdb
