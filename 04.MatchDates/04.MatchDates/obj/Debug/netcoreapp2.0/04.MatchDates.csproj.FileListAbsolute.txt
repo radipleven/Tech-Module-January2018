@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\bin\Debug\netcoreapp2.0\04.MatchDates.deps.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\bin\Debug\netcoreapp2.0\04.MatchDates.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\bin\Debug\netcoreapp2.0\04.MatchDates.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\bin\Debug\netcoreapp2.0\04.MatchDates.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\bin\Debug\netcoreapp2.0\04.MatchDates.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Lab\04.MatchDates\04.MatchDates\obj\Debug\netcoreapp2.0\04.MatchDates.csprojResolveAssemblyReference.cache

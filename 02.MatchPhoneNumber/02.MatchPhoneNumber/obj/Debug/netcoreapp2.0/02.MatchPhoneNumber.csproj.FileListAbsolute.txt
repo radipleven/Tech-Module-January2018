@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.deps.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\02.MatchPhoneNumber\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.pdb

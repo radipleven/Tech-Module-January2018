@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.deps.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.pdb
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.dll
+D:\Visual Studio 2017\Backup Files\RegEx Lab\05.MatchNumbers\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.pdb
