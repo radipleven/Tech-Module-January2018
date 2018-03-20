@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.deps.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\bin\Debug\netcoreapp2.0\SearchForANumber.pdb
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.dll
+D:\Visual Studio 2017\Backup Files\Lists Exercises\SearchForANumber\SearchForANumber\obj\Debug\netcoreapp2.0\SearchForANumber.pdb
