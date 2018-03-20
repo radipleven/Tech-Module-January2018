@@ -1,0 +1,11 @@
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.deps.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.runtimeconfig.dev.json
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\bin\Debug\netcoreapp2.0\CountRealNumbers.pdb
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.AssemblyInfo.cs
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.dll
+D:\Visual Studio 2017\Backup Files\Dictionaries Lab\CountRealNumbers\CountRealNumbers\obj\Debug\netcoreapp2.0\CountRealNumbers.pdb
