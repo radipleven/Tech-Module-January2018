@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendLists", "AppendLists\AppendLists.csproj", "{D8532DC0-9E4E-4933-B83E-6515E87A57BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8532DC0-9E4E-4933-B83E-6515E87A57BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8532DC0-9E4E-4933-B83E-6515E87A57BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8532DC0-9E4E-4933-B83E-6515E87A57BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8532DC0-9E4E-4933-B83E-6515E87A57BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97679715-CC52-4DEF-8167-33912E4ADF7B}
+	EndGlobalSection
+EndGlobal
